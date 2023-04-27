@@ -1,0 +1,9 @@
+e09775b38b4eccb49b93ab4553b2c361 *DESCRIPTION
+7b9b69be2b231775be5f3db40868f5e3 *NAMESPACE
+40b38201239791cd5b4612cf78ae8717 *NEWS.md
+b36a17874e138655aec1ee265a000e3c *R/mutate.R
+8017f3e4bc7cf7ebcf7ea187e64682ca *README.md
+f5a29a2beabf224f30aec5cad0507769 *man/mutate.Rd
+b1dda36ad2da17d2a8dbc8a65b15bf28 *man/mutate_.Rd
+8cf1fa79f3ebcd8b6dbfa02133ba29a0 *tests/testthat.R
+3f25d8ae64091f77d1cfba65370f8b03 *tests/testthat/tests_tidier.R
