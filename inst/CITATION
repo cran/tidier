@@ -1,0 +1,10 @@
+citHeader("To cite tidier in publications use:")
+
+bibentry(
+  bibtype    = "Manual",
+  title    = "tidier R package",
+  author   = person("Srikanth Komala Sheshachala"),
+  year = 2023,
+  note = "R package version 0.2.0",
+  url = "https://CRAN.R-project.org/package=tidier",
+)
